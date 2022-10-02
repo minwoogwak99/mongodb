@@ -1,3 +1,1 @@
 FROM gitpod/workspace-mongodb
-
-/
